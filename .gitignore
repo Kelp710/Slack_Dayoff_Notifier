@@ -1,5 +1,7 @@
 /.envrc
 /.envrc.save
+.env
+/.env
 /__pycache__/
 /.envrc.save.1
 /local.settings.json
